@@ -3,6 +3,7 @@
 :imagesdir: imagens
 :imagesoutdir: img
 
+
 == A Exaptação
 
 Um conceito da biologia evolucionista que pode ser útil para entender a mentalidade "Maker" tão integral à
